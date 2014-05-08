@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87112" started-at="2014-05-06T20:50:08Z" finished-at="2014-05-06T20:51:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87112" started-at="2014-05-06T20:50:08Z" finished-at="2014-05-06T20:51:35Z">
+      <class name="com.university.universityclient.test.University_ClientTest">
+        <test-method status="PASS" signature="mobileConfiguration()[pri:0, instance:com.university.universityclient.test.University_ClientTest@54397c28]" name="mobileConfiguration" is-config="true" duration-ms="10428" started-at="2014-05-06T13:50:08Z" finished-at="2014-05-06T13:50:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileConfiguration -->
+        <test-method status="PASS" signature="testAPI()[pri:0, instance:com.university.universityclient.test.University_ClientTest@54397c28]" name="testAPI" duration-ms="76654" started-at="2014-05-06T13:50:18Z" finished-at="2014-05-06T13:51:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAPI -->
+      </class> <!-- com.university.universityclient.test.University_ClientTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
